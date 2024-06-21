@@ -1,3 +1,3 @@
-Hello reader, this is the github for the python code that was written throughout my bachelor end project.
-This github only contains one file, since the entire coding process was also done in one file.
-All functions within that file contain docstrings for a little extra explanation.
+Dear reader, this is the github for my python script that was written throughout my bachelor end project.
+Further explanation of the code is provided within the script itself, since all functions contain docstrings.
+
